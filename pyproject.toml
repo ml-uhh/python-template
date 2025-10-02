@@ -1,0 +1,9 @@
+[project]
+name = "lecture-dev-template"
+version = "0.1.0"
+description = "A dev environment template for students of courses by the ML working group."
+readme = "README.md"
+requires-python = ">=3.12.2"
+dependencies = [
+    "ipykernel>=6.30.1",
+]

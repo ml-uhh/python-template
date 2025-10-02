@@ -1,0 +1,8 @@
+# Python environment
+.venv/
+
+# VSCode settings
+.vscode/
+
+# MacOS files
+.DS_Store
