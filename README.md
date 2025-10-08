@@ -19,13 +19,13 @@ To follow this tutorial, you should have git, VSCode, and uv installed on your m
 - Clone the repository using the command:
 
   ```bash
-    git clone https://github.com/ml-uhh/lecture-dev-template.git
+    git clone https://github.com/ml-uhh/python-template.git
   ```
 
 - Open the folder in VSCode.
 
   ```bash
-    code lecture-dev-template
+    code python-template
   ```
 
 ### 2. Setup VSCode for use with Jupyter notebooks and Python
@@ -46,7 +46,7 @@ There should now be a new folder containing the environment at `./.venv/`
 ### 4. Open a notebook
 
 - Open the [numpy tutorial notebook](tutorials/introduction_numpy.ipynb).
-- In the top right corner, select the Python environment created by `uv` (should be called `lecture-dev-template`).
+- In the top right corner, select the Python environment created by `uv` (should be called `python-template`).
 - You should now be able to run the notebook cells.
 
 ### 5. Add more packages

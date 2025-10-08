@@ -1,5 +1,5 @@
 [project]
-name = "lecture-dev-template"
+name = "python-template"
 version = "0.1.0"
 description = "A dev environment template for students of courses by the ML working group."
 readme = "README.md"
